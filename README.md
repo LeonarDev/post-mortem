@@ -1,35 +1,34 @@
 # Análise PostMortem
----------
 
-"É melhor prevenir do que remediar"
+
+### "É melhor prevenir do que remediar"
 
 Qualquer médico lhe dirá isso. E o mesmo acontecerá com qualquer paciente doente. Então, por que essa sabedoria milenar como essa raramente é praticada?
 
-Poucas pessoas se exercitam e se alimentam bem antes de perceberem que sua saúde está ruim;
-Você raramente vê alguém fazer a manutenção do carro antes que ele estrague;
-Ninguém troca o teto até a água pingar na cabeça.
+- Poucas pessoas se exercitam e se alimentam bem antes de perceberem que sua saúde está ruim;
+- Você raramente vê alguém fazer a manutenção do carro antes que ele estrague;
+- Ninguém troca o teto até a água pingar na cabeça.
+
 O que é curioso sobre esses problemas é que eles raramente surgem do nada. Eles não são surpresas;
 
-Você pode sentir-se lentamente saindo de forma.
-Você sabe que se você nunca trocar seu óleo, seu carro vai estragar.
-Todos os dias você chega em casa e, por uma fração de segundo, percebe um problema no teto antes de passar para assuntos mais urgentes.
+- Você pode sentir-se lentamente saindo de forma.
+- Você sabe que se você nunca trocar seu óleo, seu carro vai estragar.
+- Todos os dias você chega em casa e, por uma fração de segundo, percebe um problema no teto antes de passar para assuntos mais urgentes.
 
 Felizmente,  há uma coisa simples que você pode fazer para salvar qualquer projeto do desastre. Dedicar um tempo para refletir sobre essa questão é o que nós, no mundo do gerenciamento de produtos, podemos chamar de pre-mortem.
 
 Uma pré-morte é o oposto hipotético de uma pós-morte. Um post-mortem em um ambiente médico permite que os profissionais de saúde e a família aprendam o que causou a morte de um paciente. Todos se beneficiam, exceto, é claro, o paciente. Uma pré-morte em uma configuração de negócios ocorre no início de um projeto e não no final, para que o projeto possa ser aprimorado em vez de autopsiado.
 
-Porém, podemos considerar que o pré-mortem de hoje é fruto do pós-mortem de ontem. Pois se aplica em identificar as causas de erros ocorridos no passado.
+Podemos considerar que o pré-mortem de hoje é parte do pós-mortem de ontem. Pois se aplica em identificar as causas de erros ocorridos no passado. Por isso, é importante que o Pós-Mortem seja realizado para buscar o sucesso no desenvolvimento de software.
 
 ---------
-A única coisa pior do que cometer erros, é cometer os mesmos novamente...
 
-“atividade de aprendizado coletivo, a
-qual pode ser organizada para projetos seja quando
-termina uma fase ou quando é finalizado. A principal
-motivação é refletir sobre o que aconteceu no projeto,
-de forma que se possa aprimorar práticas futuras -
-para os indivíduos que dele participaram e para a
-organização como um todo.” 
+## Post-Mortem no Desenvolvimento de Software
+> Atividade de aprendizado coletivo, a qual pode ser organizada para projetos seja quando  termina uma fase ou quando é finalizado. A principal motivação é refletir sobre o que aconteceu no projeto, de forma que se possa aprimorar práticas futuras - para os indivíduos que dele participaram e para a organização como um todo.
+
+### A única coisa pior do que cometer erros, é cometer os mesmos novamente...
+
+
 
 Um bom profissional, de qualquer área, aprende com os próprios erros. Realizar uma análise post-mortem ao final de um projeto ou demanda pode ajudar a aprender com os acertos e, mais importante, com os erros.
 
@@ -71,5 +70,5 @@ São 8 passos para desenvolver um diagrama de Ishikawa:
 À medida que as equipes aprimoram seus próprios processos pré-mortem, as empresas estão vendo resultados. O Airbnb fez isso em um nível mais amplo, pedindo que os [funcionários mudassem sua mentalidade](https://www.inc.com/adam-vaccaro/airbnb-demise.html) para pensar sobre as formas pelas quais a empresa poderia ir. Nos anos desde que isso tem sido uma prática, seu negócio tem obtido grande sucesso. Então, isso deixa a pergunta: o que pode te derrubar?
 
 ----
-https://www.fernandoike.com/pt/2017/08/21/blameless-a-culpa-nao-e-sua/
-https://www.fernandoike.com/pt/2017/09/07/blameless-postmortem/
+- https://www.fernandoike.com/pt/2017/08/21/blameless-a-culpa-nao-e-sua/
+- https://www.fernandoike.com/pt/2017/09/07/blameless-postmortem/
