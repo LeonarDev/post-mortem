@@ -54,7 +54,7 @@ A  APM  é  um  método  ágil,  de  custos  e  complexidade  baixos  adequado p
 - Passo  3: Os  grupos  são  relacionados  através  de  linhas  e  setas,  revelando  as  inter-relações (causa e efeito, ordem de ocorrência, etc), surgindo o diagrama KJ.
 - Passo  4: O  diagrama  é  explicado  verbalmente,  constituindo  uma  síntese  dos  dados observados. A explanação detalha os relacionamentos do diagrama de forma precisa e lógica.
 
-[O  Diagrama  Ishikawa](),  criado  em  1943  por  Ishikawa,  é  também  conhecido  como "Diagrama  de  Causa  e  Efeito"  e  "Diagrama  de  Espinha  de  Peixe".  O  diagrama  estrutura hierarquicamente  as  causas  de  determinado  problema  de  forma  gráfica  e  sintética  [8], facilitando  a  compreensão  do  problema  sob  análise,  permitindo  assim  o  estabelecimento  de melhorias no processo adotado [7].
+[O  Diagrama  Ishikawa](https://www.siteware.com.br/metodologias/diagrama-de-ishikawa/),  criado  em  1943  por  Ishikawa,  é  também  conhecido  como "Diagrama  de  Causa  e  Efeito"  e  "Diagrama  de  Espinha  de  Peixe".  O  diagrama  estrutura hierarquicamente  as  causas  de  determinado  problema  de  forma  gráfica  e  sintética  [8], facilitando  a  compreensão  do  problema  sob  análise,  permitindo  assim  o  estabelecimento  de melhorias no processo adotado [7].
 São 8 passos para desenvolver um diagrama de Ishikawa:
 - Passo 1: Descrever o tópico (fato, sintoma) sob análise à direita do diagrama;
 - Passo 2: Traçar uma seta horizontal apontando para a incidência. Essa seta é a espinha dorsal a partir da qual as causas serão desenvolvidas;
