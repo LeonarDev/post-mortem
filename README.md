@@ -3,7 +3,7 @@
 
 ### "É melhor prevenir do que remediar"
 
-Qualquer médico lhe dirá isso. E o mesmo acontecerá com qualquer paciente doente. Então, por que essa sabedoria milenar como essa raramente é praticada?
+Qualquer médico lhe dirá isso. E o mesmo acontecerá com qualquer paciente doente. Então, por que uma sabedoria milenar como essa raramente é praticada?
 
 - Poucas pessoas se exercitam e se alimentam bem antes de perceberem que sua saúde está ruim;
 - Você raramente vê alguém fazer a manutenção do carro antes que ele estrague;
